@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Olá, e seja bem-vindo(a)👋</h1>
 
-<!--
-**MiguelReisB/MiguelReisB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Quem sou eu?</h2>
+<p>Me chamo Miguel e sou:</p> 
+<ul>
+  <li>Jovem graduando em Sistemas de Informação💻</li>
+  <li>Direto de Minas Gerais, Brasil🔺🧀</li>
+  <li>Entusiasta da tecnologia desde que me entendo por gente🙆‍♂️</li>
+  <li>Gamer nas horas vagas🎮</li>
+</ul>
+<h2 align="center">E no momento estou:</h2>
+<ul>
+  <li>Cada vez mais buscando o aprendizado na área da programção👨‍💻</li>
+  <li>Desenvolvendo minhas habilidades e ampliando meus conhecimentos em:</li>
+  <br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,java,vscode,eclipse,nodejs">
+</p>
+</ul>
+<h2 align="center">Quer trocar uma ideia ou me conhecer melhor?</h2>
+<p align="center">Não hesite em me dar um toque:</p>
+<ul align="center">
+  <a href="mailto:miguelriboreis@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-reis-4a320b340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+</ul>
