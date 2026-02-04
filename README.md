@@ -10,7 +10,7 @@
 </ul>
 <h2 align="center">E no momento estou:</h2>
 <ul>
-  <li>Cada vez mais buscando o aprendizado na área da programção👨‍💻</li>
+  <li>Cada vez mais buscando o aprendizado na área da programação e tecnologia👨‍💻</li>
   <li>Desenvolvendo minhas habilidades e ampliando meus conhecimentos em:</li>
   <br>
 <p align="center">
