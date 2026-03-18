@@ -18,8 +18,9 @@
 </p>
 </ul>
 <h2 align="center">Quer trocar uma ideia ou me conhecer melhor?</h2>
-<p align="center">Não hesite em me dar um toque:</p>
+
 <ul align="center">
+  <p>Não hesite em me dar um toque:</p>
   <a href="mailto:miguelriboreis@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail">
   </a>
