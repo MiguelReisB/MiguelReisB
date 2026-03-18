@@ -3,7 +3,7 @@
 <h2 align="center">Quem sou eu?</h2>
 <p>Me chamo Miguel e sou:</p> 
 <ul>
-  <li>Jovem graduando em Sistemas de Informação💻</li>
+  <li>Jovem graduando em Ciência da Computação💻</li>
   <li>Direto de Minas Gerais, Brasil🔺🧀</li>
   <li>Entusiasta da tecnologia desde que me entendo por gente🙆‍♂️</li>
   <li>Gamer nas horas vagas🎮</li>
