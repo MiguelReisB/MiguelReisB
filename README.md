@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=450&color=15:CC3E0A,55:0A7BCC,100:3F0ACC&text=Miguel%20Reis&reversal=true&fontColor=F5F5E6&textBg=false&animation=fadeIn&fontSize=80"> 
+</div>  
+
+
 <h1 align="center">Olá, e seja bem-vindo(a)👋</h1>
 
 <h2 align="center">Quem sou eu?</h2>
