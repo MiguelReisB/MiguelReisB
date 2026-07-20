@@ -33,3 +33,4 @@
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
 </ul>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Miguel_Reis&theme=vitesse&border_radius=25&date_format=j%20M%5B%20Y%5D&background=45%2C110C6E%2C000106&border=010E7B" alt="GitHub Streak" /></a></p>
