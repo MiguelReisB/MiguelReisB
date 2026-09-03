@@ -20,7 +20,7 @@
   <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,java,vscode,git,github">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,java,git,github">
   </a>
 </p>
 <h2 align="center">Algumas tecnologias que venho pondo em prática ultimamente:</h2>
