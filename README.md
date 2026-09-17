@@ -33,4 +33,5 @@
   <a href="https://www.linkedin.com/in/miguel-reis-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
+  <p>Visit <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer">My Page</a></p>  
 </ul>
