@@ -3,39 +3,30 @@
 </div>  
 
 
-<h1 align="center">Olá, e seja bem-vindo(a)👋</h1>
+<h1 align="center">Hello, and welcome!👋</h1>
 
- <h2 align="center">Quem sou eu?</h2>
-<p>Me chamo Miguel e sou:</p> 
-<ul>
-  <li>Jovem graduando em Ciência da Computação💻</li>
-  <li>Direto de Minas Gerais, Brasil🔺🧀</li>
-  <li>Entusiasta da tecnologia desde que me entendo por gente🙆‍♂️</li>
-  <li>Gamer nas horas vagas🎮</li>
-</ul>
-<h2 align="center">E no momento estou:</h2>
+<h2 align="center">Who am i?</h2>
+<div align="center">
+  <p>Miguel, and I am:</p> 
+  <p>An undergraduate in Computer Science💻</p>
+  <p>Straight outta Minas Gerais, Brazil🔺🧀</p>
+  <p>A tech and programming enthusiast since day one🙆‍♂️</p>
+  <p>Gamer in my spare time🎮</p>
+</div>
+<h2 align="center">And at the moment:</h2>
 
-<p align="center">Cada vez mais buscando o aprendizado na área da programação e tecnologia👨‍💻</p>  
-<p align="center">Desenvolvendo minhas habilidades e ampliando meus conhecimentos em:</p>
+<p align="center">Am looking and battling every second for my personal and professional improvement👨‍💻</p>  
+<p align="center">Developing my skills and creating <s>systems</s> solutions (either for educational or professional purposes) in:</p>
   <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,java,git,github">
-  </a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,python,java,flutter,dart,supabase"></a><br>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql,spring,git,github,linux"></a>
 </p>
-<h2 align="center">Algumas tecnologias que venho pondo em prática ultimamente:</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,flutter,supabase">
-  </a>
-</p>
-  
-
-<h2 align="center">Quer trocar uma ideia ou me conhecer melhor?</h2>
+<h2 align="center">Wanna chat or know me better?</h2>
 
 <ul align="center">
-  <p>Não hesite em me dar um toque:</p>
+  <p>Don't you dare wait a second longer:</p>
   <a href="mailto:miguelriboreis@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail">
   </a>
