@@ -5,9 +5,8 @@
 
 <h1 align="center">Hello, and welcome!👋</h1>
 
-<h2 align="center">Who am i?</h2>
+<h3 align="center">Who am i?</h3>
 <div align="center">
-  <p>Miguel, and I am:</p> 
   <p>An undergraduate in Computer Science💻</p>
   <p>Straight outta Minas Gerais, Brazil🔺🧀</p>
   <p>A tech and programming enthusiast since day one🙆‍♂️</p>
@@ -33,5 +32,5 @@
   <a href="https://www.linkedin.com/in/miguel-reis-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
-  <p>Visit <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer">My Page</a></p>  
+  <h3>Visit <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer">My Page</a></h3>  
 </ul>
