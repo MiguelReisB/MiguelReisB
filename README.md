@@ -2,7 +2,7 @@
     <img src="assets/titleMatrixRain.webp" width="900" height="300">
 </div>
 <div align="center">
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=MiguelReisB&style=for-the-badge&label=Profile+Views">&nbsp;&nbsp;&nbsp;<img alt="GitHub Followers" src="https://img.shields.io/github/followers/miguelreisb?style=for-the-badge&color=dark-green">&nbsp;&nbsp;&nbsp;<img alt="Open for Opportunities" src="https://img.shields.io/badge/Open_for-Job_Opportunities-blue?style=for-the-badge&label=Open%20for">
+    <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/Page-blue?style=for-the-badge&label=Visit%20My"></a>&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Open for Opportunities" src="https://img.shields.io/badge/Open_for-Job_Opportunities-blue?style=for-the-badge&label=Open%20for">
 </div>
 <br>
 <br>
@@ -52,7 +52,9 @@
 <a href="mailto:miguelriboreis@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/icons/gmail.svg" alt="Email" width="48" height="48"></a>&nbsp;<a href="https://www.linkedin.com/in/miguel-reis-dev/" target="_blank" rel="noopener noreferrer"><img src="assets/icons/linkedin.svg" alt="LinkedIn" width="48" height="48"></a>
 </div>
 
-<b><h4> Visit <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer"> My Page</a>.</h4></b> 
+---
+
+<b><h4 align="center"> Visit <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer"> My Page</a>.</h4></b> 
 
 <br>
 <br>
