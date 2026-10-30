@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/matrixRain.webp" width="900" height="600">
+    <img src="assets/matrixRain.webp" width="900" height="300">
 </div>
 <div align="center">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=MiguelReisB&style=for-the-badge&label=Profile+Views">&nbsp;&nbsp;&nbsp;<img alt="GitHub Followers" src="https://img.shields.io/github/followers/miguelreisb?style=for-the-badge&color=dark-green">&nbsp;&nbsp;&nbsp;<img alt="Open for Opportunities" src="https://img.shields.io/badge/Open_for-Job_Opportunities-blue?style=for-the-badge&label=Open%20for">
