@@ -2,7 +2,7 @@
     <img src="assets/titleMatrixRain.webp" width="900" height="300">
 </div>
 <div align="center">
-    <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/Page-blue?style=for-the-badge&label=Visit%20My"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a herf="https://drive.google.com/file/d/13_ksqWgDr6eu3wkPB5-kPc3VQR8tcxNJ/view?usp=sharing"><img alt="Open for Opportunities" src="https://img.shields.io/badge/Open_for-Job_Opportunities-blue?style=for-the-badge&label=Open%20for"></a>
+    <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/Page-blue?style=for-the-badge&label=Visit%20My"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/13_ksqWgDr6eu3wkPB5-kPc3VQR8tcxNJ/view?usp=sharing"><img alt="Open for Opportunities" src="https://img.shields.io/badge/Open_for-Job_Opportunities-blue?style=for-the-badge&label=Open%20for"></a>
 </div>
 <br>
 <br>
