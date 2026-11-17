@@ -2,7 +2,7 @@
     <a href="https://miguelreis.is-a.dev" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/Page-blue?style=for-the-badge&label=Visit%20My"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://drive.google.com/file/d/13_ksqWgDr6eu3wkPB5-kPc3VQR8tcxNJ/view?usp=sharing"><img alt="Open for Opportunities" src="https://img.shields.io/badge/Open_for-Job_Opportunities-green?style=for-the-badge&label=Open%20for"></a>
 </div>
 <div align="center">
-    <img src="matrixRainReadme.webp" width="800" height="900">
+    <img src="matrixRainReadme.webp" width="900" height="1000">
 </div>
 <br>
 <h3 align="center"> Wanna chat or know me better? </h3>
